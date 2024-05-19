@@ -15,5 +15,5 @@ The script follows the next methodology:
     ![Reference image](Docs/rectif2.png)
 
 4. Finally press 'q' to continue to the final step. In this step the image will be rectified over the reference image and the user will be able to select points in the rectified image to measure distances.
-    ![Reference image](Docs/srectif3.png)
+    ![Reference image](Docs/rectif3.png)
 
